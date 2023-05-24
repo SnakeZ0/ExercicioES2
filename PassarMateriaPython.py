@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-  print("passar na materia")
+  print("Aprender os conceitos de ES2 e padrões de projeto atuais.")
